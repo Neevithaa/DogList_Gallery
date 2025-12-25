@@ -28,6 +28,3 @@ A simple and scalable React component that displays a list of dog images using t
 
 The component stores dog details (image, title, alt text) in an array and dynamically renders each card.
 
-
-  { id: 2, image: Two, name: "The Innocent One", alt: "Dog 2" }
-];
